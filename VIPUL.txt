@@ -1,0 +1,9 @@
+CRC,ERRors(iterative in nature)
+Drops(iterative in nature)
+
+Policy map drops
+cpu process for both XE(sho process cpu sorted) and XR(cmd: top)
+
+line 1 test check ST
+
+
