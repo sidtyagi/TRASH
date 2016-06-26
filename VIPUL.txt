@@ -7,5 +7,6 @@ cpu process for both XE(sho process cpu sorted) and XR(cmd: top)
 line 1 test check ST
 line 2 test check ST_yahoo
 line 3 test check ST
+line 4 test check ST_yahoo
 
 
